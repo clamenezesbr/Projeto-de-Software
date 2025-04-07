@@ -1,11 +1,6 @@
-# Mackenzie
-
 # **Projeto de Software**
 
-
-
-## **Tema do Projeto**
-
+**Tema do Projeto**
 Aplicativo - **Rede Social para Profissionalização de Estudantes**
 
 Uma rede social que busca trazer para os usuários, uma experiência de crescimento profissional.  
