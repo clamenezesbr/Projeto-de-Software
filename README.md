@@ -1,2 +1,3 @@
-# Mackenzie2025
-Mackenzie 2025 Labs + Projects
+# Mackenzie
+
+![Mackenzie Preview Image](https://i.ibb.co/fx37wky/Mackenzie-Github.png)
