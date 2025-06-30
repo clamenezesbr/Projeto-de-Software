@@ -4,20 +4,6 @@ Descrição resumida do projeto, destacando o propósito, linguagem, escopo e p�
 
 ---
 
-## 🧾 Índice
-
-- [Sobre o Projeto](#sobre-o-projeto)  
-- [Funcionalidades](#funcionalidades)  
-- [Tecnologias](#tecnologias)  
-- [Como Executar](#como-executar)  
-- [Estrutura do Repositório](#estrutura-do-repositório)  
-- [Exemplo de Uso](#exemplo-de-uso)  
-- [Contribuindo](#contribuindo)  
-- [Licença](#licença)  
-- [Contato](#contato)
-
----
-
 ## Sobre o Projeto
 
 Descreva brevemente o que é o projeto, qual problema ele resolve e por que é relevante.  
