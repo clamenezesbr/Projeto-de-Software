@@ -18,12 +18,14 @@ Este repositório contém o projeto desenvolvido para a disciplina de **Projeto 
 
 ## 📁 Estrutura do Projeto
 
+```text
 Projeto-de-Software/
 ├── src/
-│ ├── model/ # Classes de domínio (Produto, Estoque, etc.)
-│ ├── service/ # Regras de negócio
-│ └── main/ # Classe principal com o menu do sistema
+│   ├── model/      # Classes de domínio (Produto, Estoque, etc.)
+│   ├── service/    # Regras de negócio
+│   └── main/       # Classe principal com o menu do sistema
 └── README.md
+```
 
 bash
 Copy
