@@ -27,10 +27,6 @@ Projeto-de-Software/
 └── README.md
 ```
 
-bash
-Copy
-Edit
-
 ## 🚀 Como Executar
 
 1. Clone este repositório:
@@ -50,11 +46,5 @@ Gabriel Menezes
 
 📄 Licença
 Este projeto é apenas para fins acadêmicos e educacionais.
-
-java
-Copy
-Edit
-
-Se quiser personalizar mais (ex: adicionar prints do terminal, GIF de execução, badges ou links para LinkedIn), me avise que posso melhorar para você.
 
 ![Diagrama image](https://plantuml.gitlab-static.net/png/U9obLKrhup0GlUjNY5mANLowLqENbhIK7XP2Itx0L9fq1omfQEHGklI_Lt8SHv7jfTtwOccOz-RDbttD0NneJIF4cRoAZrmsm8pSNOHA5xdc5Zmv-LT8-ODqBTVhXzjqjivWBP-29_kIxcY0cjp0QF_0O7WNFU4A_OQQCPy6xVX6WKP3od7EH3QWnwGijtQ0bNSROYPdWNWYMFlSa0854ma4V0tkb330qbFohkKj14n6GvecibYsdZzH58siF7M49SFT3ctuBufUQgzn87omlUCSSm8DJYNwthVRxoMqYiD4YhQfVZDiIS6T3HxqIFqZgXZAwfbUqTPzKiRD3fgkX_zcX8FR18CsP8cJJEU_ElW3os-dqK_7ZdiNMYxxEG2EfUdNyX4RK6d4JMfilvw7nLpyNCYgwbxzQjLowvXR6hbSNboSB_ATg6Mi8ipubVDKIqP9oOWxdECUpK0KSx3DOAORLijzXuJ8zFQ8glhL7IFDVWzhwN4JFn5MHK2fEmT5n93D7bB5f42CTHUeGp8vw4HluJ-quXaOuxXBD68wqG9O526F9qu7yxIAnt5Be1Ze3SJHLghBHy1qNa9SnwZnP_01gbZVpG00)
